@@ -1,0 +1,19 @@
+{
+  "name": "srt_parser",
+  "version": "1.0.0",
+  "description": "parsing srt file to make json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junbeomlee33/srt_parser.git"
+  },
+  "author": "jnbms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junbeomlee33/srt_parser/issues"
+  },
+  "homepage": "https://github.com/junbeomlee33/srt_parser#readme"
+}
